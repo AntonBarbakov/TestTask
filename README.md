@@ -1,2 +1,4 @@
 # CypressFramework
-Custom Cypress Framework  from lessons for notes and study
+Custom Cypress Framework for code challenge
+Instruction
+In local directory - git clone 
